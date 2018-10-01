@@ -49,7 +49,7 @@ En el shading, se usa la función que calcula los valores RGB (intensidad) para 
 También se aplica un algoritmo de anti-aliasing, este divide el pixel en sub-regiones (4, 8, 16) y luego toma el promedio de los pixeles que estan dentro de la figura y se asigna la intensidad del color, con este se logra mejorar la representación rasterizada del triangulo. Oprimiendo la tecla i se logra cambiar el valor del el anti-aliasing.
 
 
-![Resultado](screenshotraster.jpg)
+![Resultado](screenshotraster.jpeg)
 
 
 
